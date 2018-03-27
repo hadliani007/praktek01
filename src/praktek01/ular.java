@@ -10,5 +10,10 @@ package praktek01;
  * @author Hadli
  */
 public class ular {
+    public static void main(string[] args){
     
+    ular tambang = new binatang();
+    ular sanca kembang= new binatang();
+    ular cobra = new binatang();
+    }
 }
