@@ -15,5 +15,23 @@ public class ular {
     ular tambang = new binatang();
     ular sanca kembang= new binatang();
     ular cobra = new binatang();
+    
+    tambang.ukuran = "kecil";
+    tambang.cara_merayap = "lambat";
+    tambang.warna = "kuning";
+    tambang.jenis_makanan = "serangga";
+    tambang.jenis_bisa= "tidak berbisa";
+    
+    sanca.ukuran = "besar";
+    sanca.cara_merayap ="cepat";
+    sanca.warna = "kuning kecoklatan";
+    sanca.jenis_makanan = "ikan kecil";
+    sanca.jenis_bisa = "sedang";
+            
+    cobra.ukuran = "sedang";
+    cobra.cara_merayap ="cepat";
+    cobra.warna = "cokelat";
+    cobra.jenis_makanan = "sejenis tikus";
+    cobra.jenis_bisa = "mematikan";
     }
 }
