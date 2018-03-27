@@ -33,5 +33,9 @@ public class ular {
     cobra.warna = "cokelat";
     cobra.jenis_makanan = "sejenis tikus";
     cobra.jenis_bisa = "mematikan";
+    
+    ular_tambang.tampildata();
+    ular_sanca.tampildata();
+    ular_cobra.tampildata();
     }
 }
